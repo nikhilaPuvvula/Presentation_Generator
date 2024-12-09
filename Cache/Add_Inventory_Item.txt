@@ -1,0 +1,30 @@
+#Title: ADD
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduction to Addition
+2. Basic Addition
+3. Properties of Addition
+4. Addition Strategies
+
+#Slide: 2
+#Header: Introduction to Addition
+#Content: Addition is a fundamental arithmetic operation that combines two or more numbers to find their total sum.
+
+#Slide: 3
+#Header: Basic Addition
+#Content: In basic addition, numbers are added together to find the total. For example, 2 + 3 = 5.
+
+#Slide: 4
+#Header: Properties of Addition
+#Content: Addition is commutative (changing the order does not change the result), associative (grouping does not change the result), and has an identity element (0).
+
+#Slide: 5
+#Header: Addition Strategies
+#Content: Common addition strategies include using number lines, counting on, and using manipulatives to visualize the addition process.
+
+#Slide: 6
+#Header: Summary
+#Content: Addition is a fundamental operation in mathematics that involves combining numbers to find their total sum. It follows various properties and can be solved using different strategies.
+
+#Slide: END
